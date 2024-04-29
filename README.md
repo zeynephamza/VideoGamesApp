@@ -51,7 +51,8 @@ In this project, first of all, a request was made to the API to get the game lis
 ## Screenshots
 <img width="340" alt="Screenshot 2024-04-29 at 10 04 11" src="https://github.com/zeynephamza/VideoGamesApp/assets/15521642/140ea574-7ba3-48be-90dd-01e50c571b2f"> 
 <img width="335" alt="Screenshot 2024-04-29 at 10 03 38" src="https://github.com/zeynephamza/VideoGamesApp/assets/15521642/85ef81d3-b585-4322-b315-8e296ccde6c7"
-![Uygulama<img width="338" alt="Screenshot 2024-04-29 at 10 03 19" src="https://github.com/zeynephamza/VideoGamesApp/assets/15521642/93bd788d-7499-41c8-b2f0-aeb285f11c4b">
+![Uygulama<img width="338" alt="Screenshot 2024-04-29 at 10 03 19" src="https://github.com/zeynephamza/VideoGamesApp/assets/15521642/93bd788d-7499-41c8-b2f0-aeb285f11c4b"><img width="338" alt="Screenshot 2024-04-29 at 10 03 19" src="https://github.com/zeynephamza/VideoGamesApp/assets/15521642/234e269c-7d9d-450a-8465-6208d2dfee5c">
+
 <img width="334" alt="Screenshot 2024-04-29 at 10 05 13" src="https://github.com/zeynephamza/VideoGamesApp/assets/15521642/fb6fd285-7494-45ee-9524-feeaec14f68c">
 
   
